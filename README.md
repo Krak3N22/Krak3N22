@@ -8,9 +8,25 @@ I work with everything from onboarding new employees and Google Workspace admini
 
 ## 🔧 What I'm working on
 
-- **RoomStatus** — Android app for ProDVX panel PCs that shows room availability via Google Calendar. Built with Kotlin & Jetpack Compose, controls the device LED bar via REST API.
-- **Gemini Enterprise** — Gemini Enterprise deployment for all of Fortnox, built with Codento & Google on GCP. Federated access control, connected to Slack, Calendar, Drive, Gmail — and currently adding on-prem Jira & Confluence.
-- **IAM Automation** — Ansible-based access management at scale: quarterly access reviews, privilege group assignment, and role lifecycle for teams and individuals.
+- **RoomStatus** — Android kiosk app for ProDVX panel PCs showing room availability via Google Calendar. Built with Kotlin & Jetpack Compose, Google Calendar API with service account + domain-wide delegation, hardware LED control via REST API. Built to replace expensive digital signage SaaS by reusing existing Workspace infrastructure.
+
+- **Gemini Enterprise** — Enterprise Gemini/Agentspace deployment for all of Fortnox, built with Codento & Google on GCP. Federated access control across Slack, Calendar, Drive, Gmail — currently adding on-prem Jira & Confluence.
+
+- **IAM Automation** — Ansible-based access management at scale: quarterly access reviews across 50+ privilege groups and systems (KP, FreeIPA, Google Admin, WS1, Lastpass), covering the full Fortnox group. Running continuously since Q3 2023.
+
+- **NovigaDev Home Lab** — Personal distributed HA cluster on Proxmox VE (Dell Optiplex, CTL Chromebox, Asus hardware). Segmented network with Ubiquiti UniFi (VLANs: DMZ, Services, IoT), Nginx Proxy Manager with wildcard SSL via DNS-01/Cloudflare, ZFS storage, Docker & Docker Compose, and automated workflows via n8n. Built to mirror enterprise architecture — security-first, self-healing automation.
+
+---
+
+## 🏗 Things I've built
+
+- **Helpdesk system from scratch** — Built a full Jira-based helpdesk for Fortnox including workflows, automations (auto-close, reminders, routing), queues, mobile order flows, and dashboards. Migrated Agoy's Atlassian Cloud instance into Fortnox.
+
+- **SSO implementations** — SAML autoprovisioning for Piwik Pro, OpenID for BigTravel, SSO cert rotation for Piwik Pro, Learnster, Abstract and Envoy.
+
+- **Linux → WS1 migration** — Planned and executed migration of all Linux machines into Workspace One, including hardware swaps and documentation.
+
+- **Security hardening** — Firewall firmware updates, VLAN changes, network segmentation, 2FA push-to-accept blocking, Chrome extension policies.
 
 ---
 
@@ -29,13 +45,15 @@ I work with everything from onboarding new employees and Google Workspace admini
 ![Terraform](https://img.shields.io/badge/OpenTofu%2FTerraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
-**Platforms**
+**Platforms & Monitoring**
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Workspace & IAM**
 
@@ -71,9 +89,7 @@ I work with everything from onboarding new employees and Google Workspace admini
 
 *IT Engineer · Fortnox · Växjö, Småland 🇸🇪*
 
-<!--
-**Krak3N22/Krak3N22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <!--
 **Krak3N22/Krak3N22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
