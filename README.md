@@ -68,7 +68,6 @@ I work with everything from onboarding new employees and Google Workspace admini
 |---|---|
 | Google Workspace (Google badge) | 🔄 In progress |
 | ITIL | 📅 Planned |
-| Att leda utan att vara chef | 📅 Planned |
 
 ---
 
