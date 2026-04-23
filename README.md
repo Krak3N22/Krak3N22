@@ -21,12 +21,9 @@ I work with everything from onboarding new employees and Google Workspace admini
 ## 🏗 Things I've built
 
 - **Helpdesk system from scratch** — Built a full Jira-based helpdesk for Fortnox including workflows, automations (auto-close, reminders, routing), queues, mobile order flows, and dashboards. Migrated Agoy's Atlassian Cloud instance into Fortnox.
-
 - **SSO implementations** — SAML autoprovisioning for Piwik Pro, OpenID for BigTravel, SSO cert rotation for Piwik Pro, Learnster, Abstract and Envoy.
-
 - **Linux → WS1 migration** — Planned and executed migration of all Linux machines into Workspace One, including hardware swaps and documentation.
-
-- **Security hardening** — Firewall firmware updates, VLAN changes, network segmentation, 2FA push-to-accept blocking, Chrome extension policies.
+- **Security hardening** — Firewall firmware updates, VLAN changes, network segmentation, S/MIME email encryption, 2FA push-to-accept blocking, Chrome extension policies.
 
 ---
 
@@ -71,12 +68,14 @@ I work with everything from onboarding new employees and Google Workspace admini
 |---|---|
 | Google Workspace (Google badge) | 🔄 In progress |
 | ITIL | 📅 Planned |
+| Att leda utan att vara chef | 📅 Planned |
 
 ---
 
 ## 💼 Experience
 
-**IT Engineer** — Fortnox *(current)*
+**IT Engineer, Workplace Services** — Fortnox *(current)*
+Infrastructure, IAM automation, cloud platform, enterprise AI, internal tooling and IT onboarding. Manages systems with elevated privileges. Reports to Corporate IT Manager.
 
 ---
 
@@ -89,18 +88,6 @@ I work with everything from onboarding new employees and Google Workspace admini
 
 *IT Engineer · Fortnox · Växjö, Småland 🇸🇪*
 
-
 <!--
 **Krak3N22/Krak3N22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
