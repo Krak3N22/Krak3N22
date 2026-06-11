@@ -80,7 +80,7 @@ Infrastructure, IAM automation, cloud platform, enterprise AI, internal tooling 
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/lukas-karlsson](https://linkedin.com/in/lukas-karlsson)
+- LinkedIn: [linkedin.com/in/lukas-karlsson](https://www.linkedin.com/in/lukas-karlsson-2a6a65318)
 - Email: [Work](mailto:lukas.karlsson@fortnox.se) · [Private](mailto:krak3n.nns@gmail.com)
 
 ---
