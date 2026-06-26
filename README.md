@@ -74,14 +74,14 @@ I work with everything from onboarding new employees and Google Workspace admini
 ## 💼 Experience
 
 **IT Engineer, Workplace Services** — Fortnox *(current)*
-Infrastructure, IAM automation, cloud platform, enterprise AI, internal tooling and IT onboarding. Manages systems with elevated privileges. Reports to Corporate IT Manager.
+Infrastructure, IAM automation, cloud platform, enterprise AI, internal tooling and IT onboarding.
 
 ---
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/lukas-karlsson](https://www.linkedin.com/in/lukas-karlsson-2a6a65318)
-- Email: [Work](mailto:lukas.karlsson@fortnox.se) · [Private](mailto:krak3n.nns@gmail.com)
+- LinkedIn · [linkedin.com/in/lukas-k4rlsson](https://www.linkedin.com/in/lukas-k4rlsson)
+- Email    · [Private](mailto:krak3n.nns@gmail.com)
 
 ---
 
